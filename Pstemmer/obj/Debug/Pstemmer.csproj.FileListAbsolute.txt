@@ -1,0 +1,9 @@
+C:\Users\Eyad\Documents\MyProject\C#\Pstemmer\Pstemmer\bin\Debug\Pstemmer.exe.config
+C:\Users\Eyad\Documents\MyProject\C#\Pstemmer\Pstemmer\bin\Debug\Pstemmer.exe
+C:\Users\Eyad\Documents\MyProject\C#\Pstemmer\Pstemmer\bin\Debug\Pstemmer.pdb
+C:\Users\Eyad\Documents\MyProject\C#\Pstemmer\Pstemmer\obj\Debug\Pstemmer.csprojResolveAssemblyReference.cache
+C:\Users\Eyad\Documents\MyProject\C#\Pstemmer\Pstemmer\obj\Debug\Pstemmer.Form1.resources
+C:\Users\Eyad\Documents\MyProject\C#\Pstemmer\Pstemmer\obj\Debug\Pstemmer.Properties.Resources.resources
+C:\Users\Eyad\Documents\MyProject\C#\Pstemmer\Pstemmer\obj\Debug\Pstemmer.csproj.GenerateResource.Cache
+C:\Users\Eyad\Documents\MyProject\C#\Pstemmer\Pstemmer\obj\Debug\Pstemmer.exe
+C:\Users\Eyad\Documents\MyProject\C#\Pstemmer\Pstemmer\obj\Debug\Pstemmer.pdb
